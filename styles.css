@@ -1,0 +1,15 @@
+#navbar {
+    position: fixed;
+    width: 300px;
+    min-width: 290px;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    border-right: solid;
+    border-color: gray;
+}
+#main-doc {
+    position: absolute;
+    margin-left: 300px;
+    padding-left: 50px;
+}
